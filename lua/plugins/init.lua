@@ -169,6 +169,8 @@ local plugins = {
     end,
   },
 
+  ["f-person/git-blame.nvim"] = {},
+
   -- file managing , picker etc
   ["nvim-tree/nvim-tree.lua"] = {
     ft = "alpha",

@@ -22,8 +22,8 @@ local options = {
   },
   view = {
     adaptive_size = true,
-    side = "left",
-    width = 25,
+    side = "right",
+    width = 40,
     hide_root_folder = true,
   },
   git = {
